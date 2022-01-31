@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "lerna/bus-messages": {
+      "0.0.23": {
+        "name": "lerna/bus-messages",
+        "version": "0.0.23",
+        "dist": {
+          "url": "https://gitlab.artoxlab.com/api/v4/projects/304/packages/generic/myawesomerelease/1.2.3/php-v0.0.23.zip",
+          "type": "zip"
+        }
+      }
+    }
+  }
+}
